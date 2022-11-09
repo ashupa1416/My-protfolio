@@ -1,0 +1,16 @@
+body {
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+
+h1 {
+    size: 100px;
+}
+
+.taha {
+    color: red;
+}
+
+a {
+    text-decoration: none;
+}

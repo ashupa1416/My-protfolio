@@ -35,11 +35,11 @@ p {
 
 .link-button {
     text-decoration: none;
-    background-image: linear-gradient(tomato, orange);
+    background-image: linear-gradient(rgb(250, 90, 62), orange);
     padding: 10px 40px;
     color: whitesmoke;
-    font-weight: 400px;
     border-radius: 5px;
+    border: 3px solid rgb(0, 221, 255);
 }
 
 .top-banner {
